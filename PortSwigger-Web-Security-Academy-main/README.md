@@ -1,4 +1,4 @@
-# PortSwigger-Web-Security-Academy
+# PortSwigger
 cybersecurity-roadmap
 # 🛡 Cybersecurity Learning Journal
 
