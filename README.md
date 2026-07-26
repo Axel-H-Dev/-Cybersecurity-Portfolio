@@ -6,9 +6,7 @@
 
 *"Learning by doing. Documenting every lab, room, and project while building practical Blue Team skills."*
 
-![Visitors](https://komarev.com/ghpvc/?username=Axel-H-Dev&color=blue)
-![GitHub last commit](https://img.shields.io/github/last-commit/Axel-H-Dev/Cybersecurity-Portfolio)
-![GitHub repo size](https://img.shields.io/github/repo-size/Axel-H-Dev/Cybersecurity-Portfolio)
+
 
 </div>
 
