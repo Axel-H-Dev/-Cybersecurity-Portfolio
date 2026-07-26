@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Cybersecurity Portfolio Banner" width="100%">
+</p>
+
+
+
 # 🛡️ Axel Hernández | Cybersecurity Portfolio
 
 <div align="center">
