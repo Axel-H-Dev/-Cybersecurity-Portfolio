@@ -2,10 +2,9 @@
   <img src="assets/banner.png" alt="Cybersecurity Portfolio Banne" width="100%">
 </p>
 
-
-
+<div align="center">
 # 🛡️ Axel Hernández | Cybersecurity Portfolio
-
+</div>
 <div align="center">
 
 # 🔵 Blue Team | SOC Analyst Journey
